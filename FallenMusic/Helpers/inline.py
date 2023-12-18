@@ -39,7 +39,7 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="▢", callback_data="end_cb"),
             ],
             [
-            InlineKeyboardButton("⦓ ѕᴏᴜʀᴄᴇ ʀᴇғᴢ 𖤛⦔", url=f"https://t.me/def_Zoka"),
+            InlineKeyboardButton("✘ 𝑯𝑼𝑵𝑻𝑬𝑹| 𝑺𝑶𝑼𝑹𝑪𝑬✘", url=f"https://t.me/huntersource"),
         ]
     ]
 )
@@ -54,7 +54,7 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="• اوامࢪ التشغيل •", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="• سوࢪس ࢪيفز •", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="• سورس هانتر•", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="• جࢪوب الدعم •", url=config.SUPPORT_CHAT),
     ],
     [
@@ -74,7 +74,7 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="• سوࢪس ࢪيفز •", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="• سورس هانتر•", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="• جࢪوب الدعم •", url=config.SUPPORT_CHAT),
     ],
     [
