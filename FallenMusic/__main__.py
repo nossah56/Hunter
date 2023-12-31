@@ -68,7 +68,7 @@ async def fallen_startup():
     try:
         await app2.send_message(
             SUNAME,
-            f"✯ ʀᴇғᴢ ᴍᴜsɪᴄ ᴀss ✯\n\n𖢵 ɪᴅ : `{ASS_ID}`\n𖢵 ɴᴀᴍᴇ : {ASS_NAME}\n𖢵 ᴜsᴇʀɴᴀᴍᴇ : @{ASS_USERNAME}",
+            f"✯ تم تشغيل سورس هانتر بنجاح انا الحساب المساعد  ✯\n\n𖢵 ɪᴅ : `{ASS_ID}`\n𖢵 ɴᴀᴍᴇ : {ASS_NAME}\n𖢵 ᴜsᴇʀɴᴀᴍᴇ : @{ASS_USERNAME}",
         )
     except:
         LOGGER.error(
